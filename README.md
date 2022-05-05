@@ -2,7 +2,7 @@
 - 👀 I’m interested in physics, more specific in gravitation, cosmology and particle physics. I'm interested in software development too.
 - 🌱 I’m currently learning software development at Trybe School.
 - 💞️ I’m looking to collaborate on the projects of my school.
-- 📫 You can reach me by my personal instagram account @vinifeelins =)
+- 📫 You can reach me by my personal instagram account @vinifeelins or my e-mail vini.fisica.unb@gmail.com=)
 
 <!---
 viniciustrybe/viniciustrybe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
