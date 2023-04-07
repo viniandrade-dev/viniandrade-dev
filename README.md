@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **computer and data science**
 
-- 💬 Ask me about **back-end technolgies and I like to talk about things of the Universe, like black holes, quantum mechanics and stuff**
+- 💬 Ask me about **software development technolgies and I like to talk about things of the Universe, like black holes, quantum mechanics and stuff**
 
 - 📫 How to reach me **vini.fisica.unb@gmail.com**
 
