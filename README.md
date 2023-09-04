@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinícius!</h1>
 <h3 align="center">I'm a Full Stack developer and physicist from Brazil!</h3>
 
-- 🌱 I’m currently learning **computer and data science**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **software development technolgies and I like to talk about things of the Universe, like black holes, quantum mechanics and stuff**
 
